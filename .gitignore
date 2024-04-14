@@ -5,6 +5,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/resources/views/admin-template
 .env
 .env.backup
 .env.production
